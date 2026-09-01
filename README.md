@@ -23,9 +23,9 @@
 - 🔄 **Replayability:** Option to play multiple rounds without restarting the program.
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x
+- **Language:** HTML5, CSS3, Vanilla JavaScript
 - **Libraries:** `random` (for computer choices)
-<!-- If you used JavaScript, change this to: HTML5, CSS3, Vanilla JavaScript -->
+
 
 ## 📦 Installation
 
